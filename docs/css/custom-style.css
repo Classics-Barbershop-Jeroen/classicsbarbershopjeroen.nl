@@ -294,6 +294,9 @@ i.box-circle-solid{
 	background-position: center center;
 	background-size:cover;
 }
+.outro-bg::before{
+	background: rgba(0,0,0,0.2) url("../img/header.jpg") no-repeat center center cover;
+}
 .caption-container{
 	width:50rem;
 	margin:0 auto;
